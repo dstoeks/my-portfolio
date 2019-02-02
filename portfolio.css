@@ -1,0 +1,164 @@
+/*** Styling for top of page title ***/
+
+div.pagetop {
+
+    background-color: #ed8a63;
+    color: white;
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 0px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font: verdana;
+    border-style: solid;
+    border-color: white;
+
+
+
+
+}
+
+
+
+body{
+
+  background-color: #c9af98;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h2{
+
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    font: verdana;
+}
+
+
+/*** Styling for summary of me ***/
+div.about {
+
+
+
+    color: white;
+    background-size: 460px 400px;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-left: 5%;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+    box-shadow: 30px 10px 2px #3a4660;
+    border-style: solid;
+    border-color: white;
+
+}
+
+img.me{
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-style: solid;
+  border-color: #3a4660;
+  border-radius: 5px;
+}
+
+img.keyboard{
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-style: solid;
+  border-color: #3a4660;
+  border-radius: 5px;
+
+
+}
+
+p.about{
+
+  font-size: 25px;
+  font-family: sans-serif;
+  font: verdana;
+}
+/***Styling for 3 project divs with click-able links ***/
+
+div.projectno1{
+
+  width: 25%;
+  height: 200px;
+  float:left;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 5%;
+  margin-right: 2%;
+  padding-left: 15px;
+  padding-top: 100px;
+  box-shadow: 30px 10px 2px #3a4660;
+  font-size: 30px;
+  font-family: sans-serif;
+  font: verdana;
+  color: white;
+
+
+}
+
+a.game{
+
+  background-color: #3a4660;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  border-color: white;
+  border-style: solid;
+  box-shadow: 10px 10px 2px #3a4660;
+
+}
+
+
+div.projectno2{
+
+  width: 25%;
+  height: 300px;
+  float:left;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 5%;
+  box-shadow: 30px 10px 2px #3a4660;
+
+}
+
+div.projectno3{
+
+  width: 25%;
+  height: 300px;
+  float: right;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-right: 5%;
+  margin-left: 2%;
+  box-shadow: 30px 10px 2px #3a4660;
+
+}
